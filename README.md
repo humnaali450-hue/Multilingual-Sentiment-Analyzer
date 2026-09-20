@@ -1,4 +1,4 @@
-# 🌍 Multilingual Sentiment Analyzer
+#  Multilingual Sentiment Analyzer
 
 An AI-powered web application that detects sentiment (Positive, Negative, Neutral) from text in multiple languages using pretrained transformer models.
 
@@ -26,3 +26,5 @@ An AI-powered web application that detects sentiment (Positive, Negative, Neutra
 
 ---
 
+## Run Streamlit App
+streamlit run streamlit_app.py
